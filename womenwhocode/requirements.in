@@ -1,4 +1,5 @@
 faker
 jupyter
+openpyxl
 pandas
 requests
